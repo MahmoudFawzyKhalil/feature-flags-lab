@@ -1,0 +1,2 @@
+GET localhost:8080/allocate
+X-Features: ALTERNATIVE_ALLOCATION_ALGORITHM
